@@ -16,11 +16,11 @@
     <title>Comcrest Tech </title>
 
     <!-- Icon fonts -->
-    <link href="SaveWeb2Zip/css/font-awesome.min.css" rel="stylesheet">
-    <link href="SaveWeb2Zip/css/flaticon.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/flaticon.css" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
-    <link href="SaveWeb2Zip/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Plugins for this template -->
     <link href="SaveWeb2Zip/css/animate.css" rel="stylesheet">
